@@ -4,8 +4,8 @@
 //     connection: {
 //       host: "localhost",
 //       user: "root",
-//       password: "Karishma@123",
-//       database: "project3rd"
+//       password: "your password",
+//       database: "db name"
 //     }
 //   });
 
@@ -15,8 +15,8 @@ const knex=require("knex")({
     connection:{
       host:"localhost",
       user:"root",
-      password:"Karishma@123",
-      database:"project3"
+      password:"your password",
+      database:"db name"
     }
   })
   
